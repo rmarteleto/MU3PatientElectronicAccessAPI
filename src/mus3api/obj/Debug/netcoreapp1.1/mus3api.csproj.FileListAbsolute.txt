@@ -1,9 +1,0 @@
-C:\GitProjects\PatientElectronicAccess\src\mus3api\bin\Debug\netcoreapp1.1\mus3api.deps.json
-C:\GitProjects\PatientElectronicAccess\src\mus3api\bin\Debug\netcoreapp1.1\mus3api.runtimeconfig.json
-C:\GitProjects\PatientElectronicAccess\src\mus3api\bin\Debug\netcoreapp1.1\mus3api.runtimeconfig.dev.json
-C:\GitProjects\PatientElectronicAccess\src\mus3api\bin\Debug\netcoreapp1.1\mus3api.dll
-C:\GitProjects\PatientElectronicAccess\src\mus3api\bin\Debug\netcoreapp1.1\mus3api.pdb
-C:\GitProjects\PatientElectronicAccess\src\mus3api\obj\Debug\netcoreapp1.1\mus3api.csprojResolveAssemblyReference.cache
-C:\GitProjects\PatientElectronicAccess\src\mus3api\obj\Debug\netcoreapp1.1\mus3api.AssemblyInfo.cs
-C:\GitProjects\PatientElectronicAccess\src\mus3api\obj\Debug\netcoreapp1.1\mus3api.dll
-C:\GitProjects\PatientElectronicAccess\src\mus3api\obj\Debug\netcoreapp1.1\mus3api.pdb
