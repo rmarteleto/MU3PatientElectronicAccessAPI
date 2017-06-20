@@ -1,8 +1,7 @@
 ﻿using System.IO;
-using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 
-namespace mus3api
+namespace MUS3.PatientElectronicAccess.API
 {
     public class Program
     {
