@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Hl7.Fhir.Model;
 
 namespace MUS3.PatientElectronicAccess.API.Controllers
 {
@@ -19,7 +20,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
         public IActionResult GetById(int id)
         {
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
@@ -51,7 +52,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
 
             // to-do: this is how to search by string: http://hl7.org/fhir/DSTU2/search.html#string
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
@@ -77,7 +78,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
                 return BadRequest();
 
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
@@ -102,7 +103,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
                 return BadRequest();
 
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
@@ -127,7 +128,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
                 return BadRequest();
 
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
@@ -152,7 +153,7 @@ namespace MUS3.PatientElectronicAccess.API.Controllers
                 return BadRequest();
 
             // to-do: need to filter patient from database
-            var patient = new Models.Patient();
+            var patient = new Patient();
             if (patient == null)
                 return NotFound();
 
